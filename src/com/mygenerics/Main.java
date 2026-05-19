@@ -20,8 +20,10 @@ public class Main {
         ArrayList<Long> stringList = new ArrayList<>(Arrays.asList(11L, 12L, 13L));
         ArrayList<Integer> integerList = new ArrayList<>(Arrays.asList(1, 2, 3));
 
-        // Calling method wildCardDemo() for two lists.
+        // Calling method wildCardDemo() for ArrayList of strings.
         wildCardDemo(stringList);
+        
+        // Calling method wildCardDemo() for ArrayList of integers.
         wildCardDemo(integerList);
     }
 
