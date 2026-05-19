@@ -1,5 +1,5 @@
 /**
- *  Java program to create own class with generic type.
+ *  Java program to use wildcard with creating a method.
  */
 
 package com.mygenerics;
